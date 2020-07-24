@@ -156,7 +156,7 @@ use
 
 For example:
 
-![](E:\壁纸\img_0065.jpg ?resize=450)
+![](img_0065.jpg ?resize=450)
 
 #### Link
 
